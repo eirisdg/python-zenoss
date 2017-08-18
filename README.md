@@ -1,6 +1,6 @@
 # This repo is EOL
 
-I'm no longer maintaining this repository. I'm happy that people have found value in this small library but I haven't used Zenoss in 6 years and cannot maintain this. I suggest using [Prometheus](https://prometheus.io/) for your monitoring needs. Please fork this repository for bug fixes and enhancements.
+This is a fork from iamseth project. I'll try to update and fix issues.
 
 python-zenoss ![Build Status](https://travis-ci.org/iamseth/python-zenoss.png)
 =============
